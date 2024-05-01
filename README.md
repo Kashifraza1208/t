@@ -21,7 +21,7 @@ This is a simple Todo App implemented using React and Redux. It allows users to 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Kashifraza1208/to-do-application.git
    ```
 
 2. Navigate to the project directory.
